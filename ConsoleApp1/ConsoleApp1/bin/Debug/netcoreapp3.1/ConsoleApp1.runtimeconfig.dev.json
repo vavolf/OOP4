@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\vavolf\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\vavolf\\.nuget\\packages"
+    ]
+  }
+}
